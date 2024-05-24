@@ -1,5 +1,5 @@
-## ColorFoil: How Well Can Vision and Language Models Perceive Colors?
-Abstract: To be added.
+## ColorFoil: How Well Can Vision and Language Models Perceive Colors? 
+Abstract: To be added. (Under construction)
 
 #### Instructions
 1) Link to download the MS COCO validation set (2017): https://cocodataset.org/#download
